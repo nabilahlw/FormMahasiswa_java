@@ -102,8 +102,3 @@ Connection cn = DriverManager.getConnection(
 3. Jendela aplikasi akan terbuka
 
 ---
-
-
-## 📄 License
-
-MIT License — bebas digunakan untuk keperluan belajar.
