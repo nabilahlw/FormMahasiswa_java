@@ -1,4 +1,4 @@
-# 🎓 Form Data Mahasiswa — Aplikasi CRUD Mahasiswa Berbasis Java Swing
+# 🎓 Form Data Mahasiswa Berbasis Java 
 
 Aplikasi desktop berbasis **Java Swing** untuk mengelola data mahasiswa. Dibuat menggunakan NetBeans IDE dengan koneksi ke database **MySQL** via XAMPP. Mendukung operasi CRUD lengkap: Tambah, Edit, Hapus, dan Cetak data.
 
